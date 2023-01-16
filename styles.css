@@ -1,0 +1,22 @@
+ body
+	  {
+		background-color:lavender;
+	  }
+h1
+{
+	color:#3C6255;
+	font: Times new roman;
+
+}
+h3 
+{
+	color:#1C82AD;
+}
+hr
+	  {
+	  border-color:gray;
+	  border-style:dotted;
+	  border-width:4px;
+	  border-top:none;
+	  width:5%;
+	  }
